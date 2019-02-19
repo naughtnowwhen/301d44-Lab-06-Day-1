@@ -1,0 +1,23 @@
+{
+  "name": "lab-06",
+  "version": "1.0.0",
+  "description": "301d44 Lab 6 Day 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VorosDana/301d44-Lab-06-Day-1.git"
+  },
+  "author": "Dana Voros and Peter Murphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VorosDana/301d44-Lab-06-Day-1/issues"
+  },
+  "homepage": "https://github.com/VorosDana/301d44-Lab-06-Day-1#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4"
+  }
+}
