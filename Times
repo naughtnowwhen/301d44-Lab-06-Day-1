@@ -1,0 +1,17 @@
+Setup:
+estimate: 20m
+actual: 30m
+
+Location route
+estimate: 1h
+actual: 70m
+
+Location Contruction
+Estimate: 30m
+actual: 20m
+
+Weather function
+estimate: 40m
+
+error handling 
+estimate 15 minutes;
