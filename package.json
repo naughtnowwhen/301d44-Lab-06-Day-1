@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/VorosDana/301d44-Lab-06-Day-1#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^6.2.0",
     "express": "^4.16.4"
   }
