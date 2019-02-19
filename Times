@@ -13,12 +13,6 @@ actual: 20m
 Weather function
 estimate: 40m
 
-<<<<<<< HEAD
-error Handling 
-estimate 15 minute
-actual 30
-=======
 error handling 
 estimate 15 minutes;
 actual 30 minutes;
->>>>>>> e96c2a22591d63fc14ca603d19c170a4131fdc7a
